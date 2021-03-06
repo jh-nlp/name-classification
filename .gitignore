@@ -1,0 +1,12 @@
+# data
+data/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Mac
+.DS_Store
+
+# IPython Notebook
+.ipynb_checkpoints
