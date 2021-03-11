@@ -1,3 +1,5 @@
+spacy
 nltk==3.5
 textblob==0.15.3
 polyglot==16.7.4
+xgboost==1.3.3
