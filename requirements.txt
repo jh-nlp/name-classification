@@ -1,5 +1,9 @@
-spacy
+spacy==3.0.3
+pandas==1.2.2
 nltk==3.5
 textblob==0.15.3
 polyglot==16.7.4
 xgboost==1.3.3
+Keras==2.4.0
+Keras-Preprocessing==1.1.2
+tensorflow==2.3.0
