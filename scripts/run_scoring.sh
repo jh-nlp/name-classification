@@ -1,0 +1,1 @@
+python score_with_nn.py '/home/jupyter/sb-entity-classification/models/end_to_end_nn_embedding' "/home/jupyter/sb-entity-classification/data/test_nn.pkl"
