@@ -59,8 +59,7 @@ This directory contains two files at the moment.
 2. score_with_nn.py 
 
 The bash file `run_scoring.sh` triggers `score_with_nn.py` and supplies path to the models and artifacts as parameters. A screenshot of test set performance is attached below.
-![](images/score_running_pt1.png)
-![](images/score_running_pt2.png)
+![](images/run_scoring_screenshot.png)
 
 #### tests
 Directory for future population of tests.
