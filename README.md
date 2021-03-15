@@ -35,7 +35,7 @@ Screenshots
 This directory contains saved, trained models
 
 #### notebooks
-This directory contains 4 complete notebooks.
+This directory contains 5 complete notebooks.
 1. 01-EDA.ipynb
 This notebook records efforts to audit data quality and distribution, familiarize with examples for texts to be classified, exploration of a few 'quirks' observed in data. The explored characteristics of names and classes informed engineering of statistical and keywords features for baseline model. Comments on data are documented within the notebook.
 
@@ -45,7 +45,7 @@ This notebook explores efficacy and relevance of SpaCy's out-of-the-box 'named e
 3. 03-model1-baseline.ipynb
 This notebook attempts a baseline model (using xgboost classifier), based on handcrafted features explored in the two EDA notebooks.  
 
-4. 03-model2-nn-training.ipynb
+4. 04-model2-nn-training.ipynb
 This notebook utlizes the pretrained GloVe word embedding, and deep neural net to classify names in an end-to-end manner.
 
 5. 05-model2-nn-scoring.ipynb
