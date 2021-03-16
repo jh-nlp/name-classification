@@ -10,3 +10,8 @@ data/*
 
 # IPython Notebook
 .ipynb_checkpoints
+
+
+# model files
+models/end_to_end_nn_embedding/*
+
